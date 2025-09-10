@@ -4,4 +4,6 @@ whoami
 
 pwd
 
-ip -r 
+echo "Ojas"
+
+ip r 
